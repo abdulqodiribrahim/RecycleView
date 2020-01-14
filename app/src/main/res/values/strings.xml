@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="hmj_name">Himpunan Mahasiswa ITT Purwodadi</string>
+    <string name="desc">Deskripsi</string>
+    <string-array name="data_nama">
+        <item>Ice Bear elite</item>
+        <item>Min Byung-Gyu</item>
+        <item>Kim Chul</item>
+        <item>Fangs</item>
+        <item>Greed</item>
+        <item>Blood-Red Commander Igris</item>
+        <item>Beru</item>
+        <item>Belion</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Beruang ini adalah monster tipe beast dengan fisik yang kuat. Uniknya ia memiliki pelana di punggungnya, membuat Tank terkadang menjadi hewan transportasi bagi Sung Jin-Woo.</item>
+        <item>Ia adalah satu-satunya  S-rank Hunter dengan role sebagai Healer.</item>
+        <item>Hunter rank-A dari White Tiger Guild</item>
+        <item>High Orc Shaman yang merupakan boss dari rank A dungeon yang di-raid oleh Hunters Guild.</item>
+        <item>Hunter rank-S Korea yang pindah ke Amerika Serikat</item>
+        <item>elite knight yang dilawan Sung Jin-Woo di dungeon Job change.</item>
+        <item>Ant King, monster yang lepas di Jeju Island.</item>
+        <item>pengabdi dari Shadow Monarch Ashborn. Ia sangat kuat bahkan hampir membunuh Sung Jin-Woo.</item>
+    </string-array>
+    <string-array name="photo">
+        <item>https://static.duniaku.net/2019/05/tank.jpg</item>
+        <item>https://static.duniaku.net/2019/05/gyu.jpg</item>
+        <item>https://static.duniaku.net/2019/05/iron.jpg</item>
+        <item>https://static.duniaku.net/2019/05/fang.jpg</item>
+        <item>https://static.duniaku.net/2019/05/greed.jpg</item>
+        <item>https://static.duniaku.net/2019/05/igris.jpg</item>
+        <item>https://static.duniaku.net/2019/05/beru.jpg</item>
+        <item>https://static.duniaku.net/2019/05/shadow.jpg</item>
+    </string-array>
+</resources>
